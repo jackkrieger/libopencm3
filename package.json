@@ -1,0 +1,16 @@
+{
+  "name": "framework-libopencm3",
+  "version": "1.10000.240830",
+  "title": "LibOpenCM3",
+  "description": "The libopencm3 project aims to create an open-source firmware library for various ARM Cortex-M microcontrollers.",
+  "keywords": [
+    "framework",
+    "arm"
+  ],
+  "homepage": "http://www.libopencm3.org/",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackkrieger/libopencm3"
+  }
+}
